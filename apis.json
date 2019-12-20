@@ -1,0 +1,64 @@
+{
+    "name": "Zapier",
+    "description": "Connect the apps you use everyday to automate your work and be more productive. 1000+ apps and easy integrations - get started in minutes.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/38-zapier.jpg",
+    "tags": [
+        "api lifeycle",
+        "automation",
+        "have api",
+        "interoperability",
+        "ipaas",
+        "webhooks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zapier\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Zapier",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/38-zapier.jpg",
+            "humanURL": "https:\/\/zapier.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zapier-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/zapier.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/zapier.com\/engineering\/feeds\/latest\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zapier"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/zapier"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/zapier"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/zapier"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/zapier.com\/"
+        }
+    ]
+}
