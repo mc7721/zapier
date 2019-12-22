@@ -10,8 +10,8 @@
         "ipaas",
         "webhooks"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-22",
+    "modified": "2019-12-22",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zapier\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -24,14 +24,18 @@
             "tags": [],
             "properties": [
                 {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zapier-postman-collection.json"
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zapier\/master\/zapier-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "https:\/\/zapier.com\/blog\/"
